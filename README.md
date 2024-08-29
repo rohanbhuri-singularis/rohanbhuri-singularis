@@ -1,5 +1,5 @@
 
-# Hi Everyone,
+# Hi Everyone 👋,
 ## Rohan Bhuri | JS Fullstack Developer | Software Enginner
 
 ### About Me
@@ -29,3 +29,10 @@ My experience encompasses various technologies that enable me to make Web, Andro
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+
+## Authors
+
+- [@rohanbhuri](https://www.github.com/rohanbhuri)
+
+
