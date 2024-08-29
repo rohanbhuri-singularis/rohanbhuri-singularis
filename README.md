@@ -13,7 +13,6 @@ My experience encompasses various technologies that enable me to make Web, Andro
 ![Htmx](https://img.shields.io/badge/-Htmx-000?&logo=htmx)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=csswizardry)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=sass)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Scss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
