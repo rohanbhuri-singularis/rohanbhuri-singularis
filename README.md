@@ -3,7 +3,7 @@
 ## Rohan Bhuri | JS Fullstack Developer | Software Enginner
 
 ### About Me
-I am an experienced full-stack developer who has been working since 2015. I've worked for startups and companies and led a few talented teams to deliver extraordinary software products to valued clients. software
+I am an experienced full-stack developer who has been working since 2015. I've worked for startups and companies and led a few talented teams to deliver extraordinary software products to valued clients.
 
 My experience encompasses various technologies that enable me to make Web, Android, IOS, macOS, Windows, Linux, IOT, and Server Apps. I'm passionate about delivering high-quality solutions and always eager to learn new technologies and techniques.
 
